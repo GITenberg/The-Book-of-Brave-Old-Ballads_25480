@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 25480-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25480#The-Book-of-Brave-Old-Ballads
 gutenberg_issued: '2008-05-15'
 gutenberg_type: Text
 identifiers:
